@@ -738,6 +738,10 @@ public class ViewAdapter extends FragmentStateAdapter {
 
 
 
+https://github.com/FathiaDjawas/Fragment/assets/115916422/40ab3683-652e-4a41-8365-6cb81986871d
+
+
+
 
 ## Selesai, Terima Kasih 
 
